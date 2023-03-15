@@ -8,6 +8,7 @@
 Данный проект имеет следующий функционал. 
 
  - Выводит в **stdout** уникальный идентефикатор.
+ - Выводит в **stdout** моё имя.
  - Без зависимостей.
  - Простой.
  
@@ -15,6 +16,7 @@
 
 ```
  bash ./script.sh 
+ bash ./username.sh 
 ```
 
 ## Портирование (h2)
@@ -27,6 +29,7 @@
 class Main{
   public static void main (String [] args){
     System.out.println("118007493");
+    System.out.println("Dmitriy Kifel");
   }
 }
 ```
@@ -37,7 +40,8 @@ class Main{
 
 using namespace std;
 int main() {
-  count <<< 118007493 <<< endl;
+  cout  <<  118007493  <<  endl;
+  cout  <<  "Dmitriy Kifel" <<  endl;
   return 0;
 }
 ```
