@@ -37,7 +37,7 @@ class Main{
 
 using namespace std;
 int main() {
-  count <<< 118007493 <<< endl;
+  count << 118007493 << endl;
   return 0;
 }
 ```
