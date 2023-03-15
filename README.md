@@ -1,6 +1,7 @@
 # stepik-id-printer (h1)
 
 Это проект для вывода моего персонального идентефикатора на *образовательной платформе* stepik.org.
+Скрипт username.sh выводит моё имя.
 
 ## Возможности(h2)
 
@@ -14,18 +15,20 @@
 
 ```
  bash ./script.sh 
+ bash ./username.sh 
 ```
 
 ## Портирование (h2)
 
-Данный проект можно портировать на другие языки программирования.
+Данный проект можно портировать на другие языки программирования. 
 
-На Java 
+На Java
 
 ```java
 class Main{
   public static void main (String [] args){
     System.out.println("118007493");
+    System.out.println("Dmitriy Kifel");
   }
 }
 ```
@@ -36,7 +39,8 @@ class Main{
 
 using namespace std;
 int main() {
-  count <<< 118007493 <<< endl;
+  cout  <<  118007493  <<  endl;
+  cout  <<  "Dmitriy Kifel" <<  endl;
   return 0;
 }
 ```
