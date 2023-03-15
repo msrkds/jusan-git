@@ -52,7 +52,7 @@ int main() {
 | Почта         | [Ссылка](mailto:dskifel@gmail.com "Ссылка")                         | 24 часа   |
 | LinkedIn      | [Ссылка](https://www.linkedin.com/in/dmitriy-kifel-79a9131a0/ "Ссылка")  | 3 часа    |
 | WhatsApp      | [Ссылка](https://wa.me/+77012271573, "Ссылка")                             | 30 минут  |
-| Telegram      | [Ссылка](https://t.me/function_void "Ссылка")                             | 5 минут   |
+| Telegram      | [Ссылка](https://t.me/msrkds "Ссылка")                             | 5 минут   |
 
 
 
